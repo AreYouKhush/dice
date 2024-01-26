@@ -4,7 +4,7 @@ import Dice from './components/Dice';
 
 const App = () => {
   return (
-    <SafeAreaView style={{flex: 1}}>
+    <SafeAreaView style={{flex: 1, backgroundColor: 'white'}}>
       <Dice></Dice>
     </SafeAreaView>
   );
