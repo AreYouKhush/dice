@@ -125,4 +125,5 @@ const Dice = (): JSX.Element => {
   );
 };
 
+
 export default Dice;
