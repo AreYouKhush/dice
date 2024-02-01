@@ -15,6 +15,7 @@ import DiceFive from '../assets/images/dice-six-faces-5.png';
 import DiceSix from '../assets/images/dice-six-faces-6.png';
 import ReactNativeHapticFeedback from "react-native-haptic-feedback";
 
+
 type DiceProps = PropsWithChildren<{
   imageUrl: ImageSourcePropType;
 }>;
